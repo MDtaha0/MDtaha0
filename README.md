@@ -3,7 +3,8 @@ I'm currently persuing Bachelor's of Computer Applications.<br>I have spent last
 
 
 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahaa.bruh) [!LinkedIn](https://linkedin.com/in/Mohammed Taha ) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahaa.bruh)
+[!LinkedIn](https://linkedin.com/in/mohammedtahaa) 
 
 💻 Tech Stack:
 !C# !Python !Adobe After Effects !Adobe Photoshop !Adobe Premiere Pro !Adobe Illustrator
